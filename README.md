@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Delighted to have you here. I'm Kratu Desai, a comprehensive full-stack developer & visual design enthusiast based in Austin, Texas.
 
-### ** Expertise: Proficient to Deliver Your Results**
+### 🌟 **Expertise: Proficient to Deliver Your Results**
 The heart of each creation should captivate, simple and clear, yet innovative, I'll illustrate. My core principle is simple: Chase perfection to catch excellence. A mantra that drives relentless growth and achievement.
 
 ### 🔭 **Current Projects:** 
