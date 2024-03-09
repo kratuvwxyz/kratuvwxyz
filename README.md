@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! Delighted to have you here. I'm Kratu Desai, a comprehensive full-stack developer & visual design enthusiast based in Austin, Texas.
+Welcome to my GitHub profile! I'm Kratu Desai, a comprehensive full-stack developer & visual design enthusiast based in Austin, Texas.
 
 ### 🌟 **Expertise: Proficient to Deliver Your Results**
 - The heart of each creation should captivate, simple and clear, yet innovative, I'll illustrate. My core principle is simple: **Chase perfection to catch excellence**. A mantra that drives relentless growth and achievement.
@@ -13,9 +13,6 @@ Welcome to my GitHub profile! Delighted to have you here. I'm Kratu Desai, a com
 ### 🌱 **Currently Learning:** 
 - I'm currently diving deeper into Machine Learning and Artificial Intelligence (AI), Low-Code/No-Code Development, and Quantum Computing. I’m also exploring new concepts in Cloud Computing and DevOps, Cybersecurity, Progressive Web Apps (PWAs), and Single Page Applications (SPAs). Continuous learning fuels my passion and drives my projects forward.
 
-### 👯 **Looking to Collaborate On:** 
-- I'm open to collaborating on projects related to full-stack development and visual design. Whether coding, design, or anything in between, let's connect and create something amazing together!
-
 ### 💬 **Ask Me About:** 
 * My experience with JavaScript, including tips and best practices.
 * How I approach Scrum and Kanban software development  methodology in my projects.
@@ -26,9 +23,6 @@ Welcome to my GitHub profile! Delighted to have you here. I'm Kratu Desai, a com
 * How I stay updated with the latest trends and technologies in the industry.
 * Recommendations for resources, books, or online courses related to full-stack, visual design, and UI/UX.
 * My portfolio works on helping small businesses  and non-profit organizations.
-
-### 📫 **How to Reach Me:** 
-- Whether you're a recruiter seeking top talent or a potential client with a project in mind, I'm eager to hear from you. Let's discuss your needs, aspirations, and how I can help bring your vision to life. From exploring job opportunities to collaborating on exciting projects, I'm here to engage in meaningful conversations. You can reach out to me via [Email](mailto:sai@desaign.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/desaigner/). I'm always excited to hear from fellow developers, enthusiasts, and potential collaborators!
 
 ### ⚡ **Fun Fact:** 
 * I once built a fully functional text-based adventure game using only Python? When I'm not coding, I'm often traveling and enjoying nature.
@@ -46,19 +40,8 @@ Welcome to my GitHub profile! Delighted to have you here. I'm Kratu Desai, a com
 ### 📝 **Portfolio:** 
 - Explore my journey and capabilities, including expertise, skills, experiences, portfolio, and achievements at my [Portfolio](https://desaigner.info/).
 
-Let's build something extraordinary together!
+### 🤝 **Looking to Collaborate On:** 
+- I'm open to collaborating on projects related to full-stack development and visual design. Whether coding, design, or anything in between, let's connect and build something extraordinary together!
 
-<!--
-**kratuvwxyz/kratuvwxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 **How to Reach Me:** 
+- Whether you're a recruiter seeking top talent or a potential client with a project in mind, I'm eager to hear from you. Let's discuss your needs, aspirations, and how I can help bring your vision to life. From exploring job opportunities to collaborating on exciting projects, I'm here to engage in meaningful conversations. You can reach out to me via [Email](mailto:sai@desaign.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/desaigner/). I'm always excited to hear from fellow developers, enthusiasts, and potential collaborators!
