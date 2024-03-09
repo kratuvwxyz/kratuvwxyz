@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Delighted to have you here. I'm Kratu Desai, a com
 The heart of each creation should captivate, simple and clear, yet innovative, I'll illustrate. My core principle is simple: Chase perfection to catch excellence. A mantra that drives relentless growth and achievement.
 
 ### 🔭 **Current Projects:** 
-- Time Budgetment(https://ample.contact/QA4/)
+- [Time Budgetment](https://ample.contact/QA4/)
 In essence, "time is money" serves as a reminder of the inherent value of time and the importance of managing it judiciously. This saying underscores the notion that time, much like money, should be invested thoughtfully to yield productive and meaningful returns. In the world of business and productivity, it highlights the significance of being time-conscious and making decisions that contribute positively to one's goals and objectives.
 
 - [PLOG for Desktop Application](https://kratuvwxyz.github.io/PLOG/)
