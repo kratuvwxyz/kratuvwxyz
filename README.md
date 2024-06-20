@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Kratu Desai, a comprehensive full-stack develo
 * Recommendations for resources, books, or online courses related to full-stack, visual design, and UI/UX.
 * My portfolio works on helping small businesses  and non-profit organizations.
 
-### ⚡ **Fun Fact:** 
+### ⚡ **Fun Facts:** 
 * I once built a fully functional text-based adventure game using only Python. When I'm not coding, I'm often traveling and enjoying nature.
   * I've visited 15 countries and counting!
 * Once, my father doubted my ability to solve Rubik's Cubes, dismissing it as a waste of time. Fueled by determination, I spent the whole night mastering and conquering the patterns. Not only did I succeed, but I also taught my father the very next week. Now, he's a master in solving 4x4, 5x5, and even 6x6 Rubik's Cubes!
