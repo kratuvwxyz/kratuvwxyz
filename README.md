@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello World! 👋
 
 Welcome to my GitHub profile! I'm Kratu Desai, a comprehensive full-stack developer & visual design enthusiast based in Austin, Texas.
 
